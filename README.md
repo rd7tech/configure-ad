@@ -5,7 +5,7 @@
 <h1>Deploy Active Directory in the Cloud (Azure)</h1>
 <p>This project outlines the implementation of on-premises Active Directory within Azure Virtual Machines.</p>
 
-<p>In many organizations, the number of end users outweighs the number of resources available. Fortunately, tools like Active Directory allow you to centrally manage network resources so that resources can be shared.</p>
+<!--In many organizations, the number of end users outweighs the number of resources available. Fortunately, tools like Active Directory allow you to centrally manage network resources so that resources can be shared-->
 
 <p>This walkthrough provides a quick overview of how Microsoft Azure and Active Directory Domain Services can be set up so that multiple users can seamlessly remote desktop onto the same virtual desktop.</p>
 
