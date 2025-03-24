@@ -2,7 +2,7 @@
 <img width="566" alt="Screen Shot 2023-07-23 at 1 03 25 AM" src="https://github.com/yeahglo/configure-ad/assets/91516100/c2da16b9-710f-490a-bde8-c91773522438">
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Deploy Active Directory in the Cloud (Azure)</h1>
 <p>This project outlines the implementation of on-premises Active Directory within Azure Virtual Machines.</p>
 
 <p>In many organizations, the number of end users outweighs the number of resources available. Fortunately, tools like Active Directory allow you to centrally manage network resources so that resources can be shared.</p>
